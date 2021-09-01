@@ -147,7 +147,7 @@ body{
 
 .presentation__cta{
     display: inline-block;
-    margin-top: 30px;
+    margin-top: 10px;
     background: var(--color-primary);
     color: #fff;
     text-decoration: none;
@@ -180,6 +180,12 @@ body{
     margin-bottom: 20px;
     line-height: 1.5;
     font-weight: 300;
+}
+
+.sub_noticias{
+    text-align: center;
+    margin: 0px;
+    padding: 0;
 }
 
 /*Projects*/
